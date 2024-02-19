@@ -5,7 +5,8 @@ phases:
       - echo "Zipping deployment package..."
       - git clone https://github.com/khajum7/tdms-dev.git
       - zip -r9 deploymedddddnt_package.zip tdms-dev/*sss
-
+  fine with me
+  
       idjeioene
 
        good to know 
